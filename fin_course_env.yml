@@ -1,0 +1,14 @@
+name: fin_course_env
+dependencies:
+  - pip
+  - widgetsnbextension
+  - pip:
+    - jupyter-contrib-nbextensions
+    - jupyter-nbextensions-configurator
+    - ipycytoscape
+    - matplotlib
+    - networkx
+    - numpy
+    - pandas
+    - scikit-learn
+    - scipy
