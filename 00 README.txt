@@ -2,8 +2,10 @@
 Installation
 
 1. Install anaconda
+     please see https://www.anaconda.com/products/individual
 
-2. Download (in zip format or git clone) the course files from github
+2. Download the course files from github     
+     git clone or download zip
 
 3. Open an anaconda prompt and install the conda env with 
      conda env create -f fin_course_env.yml
@@ -17,4 +19,3 @@ Installation
 6. Start notebooks:
      cd into the directory where you downloaded the course files
      type: jupyter notebook
-
