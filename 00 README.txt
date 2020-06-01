@@ -19,3 +19,4 @@ Getting started
 6. Start notebooks:
      cd into the directory where you downloaded (or git cloned) the files
      type 'jupyter notebook' at the anaconda prompt to start the notebooks in your default browser
+
