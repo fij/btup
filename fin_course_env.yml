@@ -3,9 +3,10 @@ dependencies:
   - pip
   - widgetsnbextension
   - pip:
+    - ipycytoscape
     - jupyter-contrib-nbextensions
     - jupyter-nbextensions-configurator
-    - ipycytoscape
+    - jupyterlab
     - matplotlib
     - networkx
     - numpy
