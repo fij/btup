@@ -14,9 +14,9 @@ Getting started
 4. Activate the installed conda environment with
     . conda activate fin_course_env
 
-5. At the anaconda prompt set up nbextensions (including toc) with 
+5. At the anaconda prompt set up nbextensions (including toc) with
     . jupyter contrib nbextension install --user
-   
+
 6. Start notebooks:
     . type 'jupyter notebook' at the anaconda prompt to start the notebooks in your default browser
 
