@@ -19,3 +19,8 @@ Getting started
 
 6. Start using the notebooks in your default browser:<br/>
    . type `jupyter notebook` at your anaconda prompt
+
+7. On the main page of jupyter notebook open the Nbextensions panel<br/>
+   . 7.1. enable configurations: uncheck the "disable" box, if it is checked<br/>
+   . 7.2. turn on the nbextension "Table of Contents"
+
