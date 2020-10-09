@@ -13,3 +13,4 @@ dependencies:
     - pandas
     - scikit-learn
     - scipy
+    - statsmodels
