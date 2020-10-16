@@ -1,14 +1,14 @@
 
-(A) Recommended URLs:
+(A) Recommended further learning:
 
-1. Video courses:
-   1.1 Arzu Ozoguz (UNC): Global Financial Markets and Instruments
-       https://www.coursera.org/learn/global-financial-markets-instruments
-   1.2 Damir Filipovic (EPFL): Interest Rate Models
+1. Video courses:<br/>
+   1.1 Arzu Ozoguz (UNC): Global Financial Markets and Instruments<br/>
+       https://www.coursera.org/learn/global-financial-markets-instruments<br/>
+   1.2 Damir Filipovic (EPFL): Interest Rate Models<br/>
        https://www.coursera.org/learn/interest-rate-models
 
-2. A detailed syllabus with book titles:
-   Global Association of Risk Professionals (GARP): Financial Risk Manager (FRM) 2020 Learning Objectives
+2. A detailed syllabus with book titles:<br/>
+   Global Association of Risk Professionals (GARP): Financial Risk Manager (FRM) 2020 Learning Objectives<br/>
    https://www.garp.org/#!/landing/2020-frm-learning-objectives
 
 
