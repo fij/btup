@@ -11,6 +11,10 @@
    Global Association of Risk Professionals (GARP): Financial Risk Manager (FRM) 2020 Learning Objectives<br/>
    https://www.garp.org/#!/landing/2020-frm-learning-objectives
 
+3. Investopedia - Description / Summary / Short video<br/>
+   Example: https://www.investopedia.com/terms/f/fixedincome.asp , see also menu on the left<br/>
+   Warning: do _not_ read or click on the ads
+
 
 (B) How to use the jupyter notebooks on your computer:
 
