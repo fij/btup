@@ -41,4 +41,5 @@
    . 7.1 enable configurations: uncheck the "disable" box, if it is checked<br/>
    . 7.2 turn on the nbextension "Table of Contents"
 
+8. Several notebooks will ask you to download free data that they process.
 
