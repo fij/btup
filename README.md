@@ -1,5 +1,17 @@
 
-(A) Recommended further learning:
+(A) Introduction
+
+1. Quantitative Finance / Financial Engineering is usually considered to be a composition of three main areas:
+   - Financial markets and products.
+   - Quantitative modeling.
+   - Data processing and analysis.
+
+2. Goals are complex. Business needs speed, product flexibility, high stability, low costs and high returns at the same time.
+
+3. Note that finance, similary to other fields, has many of its own technical terms.
+
+
+(B) Recommended learning:
 
 1. Video courses:<br/>
    1.1 Arzu Ozoguz (UNC): Global Financial Markets and Instruments<br/>
@@ -16,7 +28,7 @@
    Warning: do _not_ read or click on the ads
 
 
-(B) How to use these jupyter notebooks on your computer:
+(C) How to use these jupyter notebooks on your computer:
 
 1. Install anaconda on your computer<br/>
    . please see https://www.anaconda.com/products/individual
