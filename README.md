@@ -17,7 +17,7 @@
    1.1 Arzu Ozoguz: Global Financial Markets and Instruments<br/>
        https://www.coursera.org/learn/global-financial-markets-instruments<br/>
    1.2 Damir Filipovic: Interest Rate Models<br/>
-       https://www.coursera.org/learn/interest-rate-models
+       https://www.coursera.org/learn/interest-rate-models<br/>
    1.3 Martin Haugh and Garud Iyengar: Financial Engineering and Risk Management Part I, also Part II<br/>
        https://www.coursera.org/learn/financial-engineering-1
 
@@ -56,4 +56,11 @@
    . 7.2 turn on the nbextension "Table of Contents"
 
 8. Several notebooks will ask you to download free data that they process.
+
+
+(D) Planned items:
+
+1. Black-Derman-Toy model with calibration
+
+
 
