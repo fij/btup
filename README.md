@@ -14,18 +14,20 @@
 (B) Recommended learning:
 
 1. Video courses:<br/>
-   1.1 Arzu Ozoguz (UNC): Global Financial Markets and Instruments<br/>
+   1.1 Arzu Ozoguz: Global Financial Markets and Instruments<br/>
        https://www.coursera.org/learn/global-financial-markets-instruments<br/>
-   1.2 Damir Filipovic (EPFL): Interest Rate Models<br/>
+   1.2 Damir Filipovic: Interest Rate Models<br/>
        https://www.coursera.org/learn/interest-rate-models
+   1.3 Martin Haugh and Garud Iyengar: Financial Engineering and Risk Management Part I, also Part II<br/>
+       https://www.coursera.org/learn/financial-engineering-1
 
-2. A detailed syllabus with book titles:<br/>
+2. A detailed syllabus with book titles. Google finds the majority of the PDFs of the listed books.<br/>
    Global Association of Risk Professionals (GARP): Financial Risk Manager (FRM) 2020 Learning Objectives<br/>
    https://www.garp.org/#!/landing/2020-frm-learning-objectives
 
 3. Investopedia - Descriptions / Summaries / Short videos<br/>
    Example: https://www.investopedia.com/terms/f/fixedincome.asp , see also menu on the left<br/>
-   Warning: do _not_ read or click on the ads
+   Warning: _avoid_ the ads
 
 
 (C) How to use these jupyter notebooks on your computer:
