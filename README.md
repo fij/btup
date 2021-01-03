@@ -1,8 +1,8 @@
 
-(A) Grading for this course is based  1/3 - 1/3 - 1/3  on
-    * small project with coding
-    * short oral exam checking general understanding
-    * seminar 30 min + 10 min answering questions of other course participants
+(A) Grading for this course is based  on
+1. 1/3: small project with coding
+2. 1/3: short oral exam checking general understanding
+3. 1/3: seminar 30 min + 10 min answering questions of other course participants
 
 
 (B) Course Introduction:
