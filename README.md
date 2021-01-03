@@ -8,16 +8,16 @@
 (B) Course Introduction:
 
 1. Quantitative Finance / Financial Engineering is usually considered to be a composition of three main areas:
-   - Financial markets and products.
-   - Quantitative modeling.
-   - Data processing and analysis.
+   - Financial markets and products
+   - Quantitative modeling
+   - Data processing and analysis
 
-2. Goals are complex. Business needs speed, product flexibility, high stability, low costs and high returns at the same time.
+2. Goals are complex. Business needs speed, product flexibility, stability, low costs and high returns.<br/>Sometimes several of these at the same time.
 
 3. Note that finance, similary to other fields, has many of its own technical terms.
 
 
-(C) Recommended Learning:
+(C) Recommended Further Learning:
 
 1. Video courses:<br/>
    1.1 Arzu Ozoguz: Global Financial Markets and Instruments<br/>
@@ -33,7 +33,7 @@
 
 3. Investopedia - Descriptions / Summaries / Short videos<br/>
    Example: https://www.investopedia.com/terms/f/fixedincome.asp , see also menu on the left<br/>
-   Warning: _avoid_ the ads
+   Warning: _avoid all_ ads
 
 
 (D) How to use these jupyter notebooks on your computer:
@@ -68,4 +68,4 @@
 
 1. Black-Derman-Toy model with calibration
 
-2. Yield curve calculation from LIBORs (RFRs?) + Swaps + Bonds (?)
+2. Yield curve calculation from LIBORs(RFRs?) + Swaps + Bonds(?)
