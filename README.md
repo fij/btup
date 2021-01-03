@@ -1,23 +1,23 @@
 
-(A) Grading for this course is based  on
+**(A) Grading for this course is based on:**
 - 1/3: small project with coding
 - 1/3: short oral exam checking general understanding
 - 1/3: seminar 30 min + 10 min answering questions of other course participants
 
 
-(B) Course Introduction:
+**(B) Course Introduction:**
 
 1. Quantitative Finance / Financial Engineering is usually considered to be a composition of three main areas:
    - Financial markets and products
    - Quantitative modeling
    - Data processing and analysis
 
-2. Goals are complex. Business needs speed, product flexibility, stability, low costs and high returns.<br/>Sometimes several of these at the same time.
+2. Goals are usually complex. Business needs speed, product flexibility, stability, low costs and high returns.<br/>Sometimes several of these at the same time.
 
 3. Note that finance, similary to other fields, has many of its own technical terms.
 
 
-(C) Recommended Further Learning:
+**(C) Recommended Further Learning:**
 
 1. Video courses:<br/>
    1.1 Arzu Ozoguz: Global Financial Markets and Instruments<br/>
@@ -36,7 +36,7 @@
    Warning: _avoid all_ ads
 
 
-(D) How to use these jupyter notebooks on your computer:
+**(D) How to use these jupyter notebooks on your computer:**
 
 1. Install anaconda on your computer<br/>
    . please see https://www.anaconda.com/products/individual
@@ -64,7 +64,7 @@
 8. Several notebooks will ask you to download free data that they process.
 
 
-(E) Planned Items:
+**(E) Planned Items:**
 
 1. Black-Derman-Toy model with calibration
 
