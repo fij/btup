@@ -1,11 +1,11 @@
 
-**__(A) Grading for this course is based on:__**
+`(A) Grading for this course is based on:`
 - 1/3: small project with coding
 - 1/3: short oral exam checking general understanding
 - 1/3: seminar 30 min + 10 min answering questions of other course participants
 
 
-**(B) Course Introduction:**
+`(B) Course Introduction:`
 
 1. Quantitative Finance / Financial Engineering is usually considered to be a composition of three main areas:
    - Financial markets and products
@@ -17,26 +17,7 @@
 3. Note that finance, similary to other fields, has many of its own technical terms.
 
 
-**(C) Recommended Further Learning:**
-
-1. Video courses:<br/>
-   1.1 Arzu Ozoguz: Global Financial Markets and Instruments<br/>
-       https://www.coursera.org/learn/global-financial-markets-instruments<br/>
-   1.2 Damir Filipovic: Interest Rate Models<br/>
-       https://www.coursera.org/learn/interest-rate-models<br/>
-   1.3 Martin Haugh and Garud Iyengar: Financial Engineering and Risk Management Part I, also Part II<br/>
-       https://www.coursera.org/learn/financial-engineering-1
-
-2. A detailed syllabus with book titles. Google finds the majority of the PDFs of the listed books.<br/>
-   Global Association of Risk Professionals (GARP): Financial Risk Manager (FRM) 2020 Learning Objectives<br/>
-   https://www.garp.org/#!/landing/2020-frm-learning-objectives
-
-3. Investopedia - Descriptions / Summaries / Short videos<br/>
-   Example: https://www.investopedia.com/terms/f/fixedincome.asp , see also menu on the left<br/>
-   Warning: _avoid all_ ads
-
-
-**(D) How to use these jupyter notebooks on your computer:**
+`(C) How to use these jupyter notebooks on your computer:`
 
 1. Install anaconda on your computer<br/>
    . please see https://www.anaconda.com/products/individual
@@ -64,8 +45,27 @@
 8. Several notebooks will ask you to download free data that they process.
 
 
-**(E) Planned Items:**
+`(D) Planned Items:`
 
 1. Black-Derman-Toy model with calibration
 
 2. Yield curve calculation from LIBORs(RFRs?) + Swaps + Bonds(?)
+
+
+`(E) Recommended Further Learning:`
+
+1. Video courses:<br/>
+   1.1 Arzu Ozoguz: Global Financial Markets and Instruments<br/>
+       https://www.coursera.org/learn/global-financial-markets-instruments<br/>
+   1.2 Damir Filipovic: Interest Rate Models<br/>
+       https://www.coursera.org/learn/interest-rate-models<br/>
+   1.3 Martin Haugh and Garud Iyengar: Financial Engineering and Risk Management Part I, also Part II<br/>
+       https://www.coursera.org/learn/financial-engineering-1
+
+2. A detailed syllabus with book titles. Google finds the majority of the PDFs of the listed books.<br/>
+   Global Association of Risk Professionals (GARP): Financial Risk Manager (FRM) 2020 Learning Objectives<br/>
+   https://www.garp.org/#!/landing/2020-frm-learning-objectives
+
+3. Investopedia - Descriptions / Summaries / Short videos<br/>
+   Example: https://www.investopedia.com/terms/f/fixedincome.asp , see also menu on the left<br/>
+   Warning: _avoid all_ ads
