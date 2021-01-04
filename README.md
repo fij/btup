@@ -1,11 +1,5 @@
 
-`(A) Grading for this course is based on:`
-- 1/3: small project with coding
-- 1/3: short oral exam checking general understanding
-- 1/3: seminar 30 min + 10 min answering questions of other course participants
-
-
-`(B) Course Introduction:`
+`(A) Topic Description:`
 
 1. Quantitative Finance / Financial Engineering is usually considered to be a composition of three main areas:
    - Financial markets and products
@@ -17,7 +11,20 @@
 3. Note that finance, similary to other fields, has many of its own technical terms.
 
 
-`(C) How to use these jupyter notebooks on your computer:`
+`(B) Structure of the course:`
+
+- The first half of the course is focused on unidirectional information flow from the lecturer to the students
+- The second half of the course is focused on the short student presentations and student projects
+
+
+`(C) Grading:`
+
+- 1/3: short oral exam checking general understanding
+- 1/3: small project with coding
+- 1/3: seminar 30-40 min must contain: intro, concepts, quantitative description, example calculation, summary
+
+
+`(D) How to use these jupyter notebooks on your computer:`
 
 1. Install anaconda on your computer<br/>
    . please see https://www.anaconda.com/products/individual
@@ -45,14 +52,14 @@
 8. Several notebooks will ask you to download free data that they process.
 
 
-`(D) Planned Items:`
+`(E) Planned Items:`
 
 1. Black-Derman-Toy model with calibration
 
 2. Yield curve calculation from LIBORs(RFRs?) + Swaps + Bonds(?)
 
 
-`(E) Recommended Further Learning:`
+`(F) Recommended Further Learning:`
 
 1. Video courses:<br/>
    1.1 Arzu Ozoguz: Global Financial Markets and Instruments<br/>
