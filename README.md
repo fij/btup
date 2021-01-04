@@ -52,14 +52,7 @@
 8. Several notebooks will ask you to download free data that they process.
 
 
-`(E) Planned Items:`
-
-1. Black-Derman-Toy model with calibration
-
-2. Yield curve calculation from LIBORs(RFRs?) + Swaps + Bonds(?)
-
-
-`(F) Recommended Further Learning:`
+`(E) Recommended Further Learning:`
 
 1. Video courses:<br/>
    1.1 Arzu Ozoguz: Global Financial Markets and Instruments<br/>
@@ -69,10 +62,15 @@
    1.3 Martin Haugh and Garud Iyengar: Financial Engineering and Risk Management Part I, also Part II<br/>
        https://www.coursera.org/learn/financial-engineering-1
 
-2. A detailed syllabus with book titles. Google finds the majority of the PDFs of the listed books.<br/>
-   Global Association of Risk Professionals (GARP): Financial Risk Manager (FRM) 2020 Learning Objectives<br/>
-   https://www.garp.org/#!/landing/2020-frm-learning-objectives
+2. Global Association of Risk Professionals (GARP): Financial Risk Manager (FRM) Learning Objectives<br/>
+   This is a detailed syllabus with book titles
 
 3. Investopedia - Descriptions / Summaries / Short videos<br/>
    Example: https://www.investopedia.com/terms/f/fixedincome.asp , see also menu on the left<br/>
    Warning: _avoid all_ ads
+
+
+`(F) Planned Items:`
+
+1. Black-Derman-Toy model with calibration
+2. Yield curve calculation from LIBORs(RFRs?) + Swaps + Bonds(?)
