@@ -69,8 +69,3 @@
    Example: https://www.investopedia.com/terms/f/fixedincome.asp , see also menu on the left<br/>
    Warning: _avoid all_ ads
 
-
-`(F) Planned Items:`
-
-1. Black-Derman-Toy model with calibration
-2. Yield curve calculation from LIBORs(RFRs?) + Swaps + Bonds(?)
