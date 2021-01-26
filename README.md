@@ -1,9 +1,9 @@
 
 `(A) Topic Description:`
 
-1. Quantitative Finance / Financial Engineering is usually considered to be a composition of three main areas:
+1. Quantitative Finance / Financial Engineering is a composition of three main areas:
    - Financial markets and products
-   - Quantitative modeling
+   - Mathematical modeling
    - Data processing and analysis
 
 2. Goals are usually complex. Business needs speed, product flexibility, stability, low costs and high returns.<br/>Sometimes several of these at the same time.
@@ -21,7 +21,7 @@
 
 - 1/3: short oral exam checking general understanding
 - 1/3: small project with coding
-- 1/3: seminar 30-40 min must contain: intro, concepts, quantitative description, example calculation, summary
+- 1/3: seminar 30 min must contain: intro, concepts, quantitative description, example calculation, summary
 
 
 `(D) How to use these jupyter notebooks on your computer:`
