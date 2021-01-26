@@ -21,8 +21,9 @@
 
 1. 50%: short conversation checking general understanding
 
-2. 50%: either small python coding project that must contain: problem description, definitions and derivations, clean code with function(s), plotting, conclusions
-        or a presentation that must contain: intro, concepts, mathematical description, example calculation, summary
+2. 50%: 
+  - either small python coding project that must contain: problem description, definitions and derivations, clean code with function(s), plotting, conclusions
+  - or a presentation that must contain: intro, concepts, mathematical description, example calculation, summary
 
 
 `(D) How to use these jupyter notebooks on your computer:`
