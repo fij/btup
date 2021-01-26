@@ -19,9 +19,10 @@
 
 `(C) Grading:`
 
-- 1/3: short oral exam checking general understanding
-- 1/3: small project with coding
-- 1/3: seminar 30 min must contain: intro, concepts, quantitative description, example calculation, summary
+1. 50%: short conversation checking general understanding
+
+2. 50%: either small python coding project that must contain: problem description, definitions and derivations, clean code with function(s), plotting, conclusions
+        or a presentation that must contain: intro, concepts, mathematical description, example calculation, summary
 
 
 `(D) How to use these jupyter notebooks on your computer:`
