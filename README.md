@@ -31,7 +31,7 @@
 1. Install anaconda on your computer
    * please see https://www.anaconda.com/products/individual
 
-2. Download the files from this github repository to your computer
+2. Download the files from the current github repository to your computer
    * either download all files in a single zip package or git clone the repo
 
 3. Open an anaconda prompt on your computer and install the conda environment
