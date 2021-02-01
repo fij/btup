@@ -1,11 +1,11 @@
 ## Financial Engineering, BMETE15MF78
 
-### Grading:
+### (A) Grading:
 
 Please see the homepage of the course.
 
 
-### Topic Description:
+### (B) Topic Description:
 
 1. Quantitative Finance / Financial Engineering is a composition of three main areas:
    - Financial markets and products
@@ -17,14 +17,14 @@ Please see the homepage of the course.
 3. Note that finance, similarly to other fields, has many of its own technical terms.
 
 
-### Structure of the course:
+### (C) Structure of the course:
 
 - The first half of the course is focused on unidirectional information flow from the lecturer to the students
 - The second half of the course is focused on the short student presentations and student projects
 
 
 
-### How to use these jupyter notebooks on your computer:
+### (D) How to use these jupyter notebooks on your computer:
 
 1. Install anaconda on your computer
    * please see https://www.anaconda.com/products/individual
@@ -52,7 +52,7 @@ Please see the homepage of the course.
 8. Several notebooks will ask you to download free data that they process.
 
 
-### Recommended Further Learning:
+### (E) Recommended Further Learning:
 
 1. Video courses:
    * 1.1 Arzu Ozoguz: Global Financial Markets and Instruments<br/>
