@@ -69,3 +69,9 @@ Please see the homepage of the course.
    Example: https://www.investopedia.com/terms/f/fixedincome.asp , see also menu on the left<br/>
    Warning: _avoid all_ ads
 
+
+
+### (F) Acknowledgements
+
+I would like to thank Tamas Vicsek and Marton Sebok for teaching me in the topics of this course.
+
