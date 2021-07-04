@@ -40,8 +40,10 @@ Please see the homepage of the course.
    * `conda activate fin_course_env`
 
 5. At the anaconda prompt set up extensions:
-   * set up nbextensions with `jupyter contrib nbextension install --user`
-   * set up the rise extension with `jupyter-nbextension install rise --py --sys-prefix`
+   * for nbextensions: `jupyter contrib nbextension install --user`
+   * for the rise extension:
+     * install with `jupyter-nbextension install rise --py --sys-prefix`
+     * initialize with `jupyter nbextension enable rise --py --sys-prefix`
 
 6. Start using the notebooks in your default browser:
    * type `jupyter notebook` at your anaconda prompt
