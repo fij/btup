@@ -65,10 +65,7 @@ Please see the homepage of the course.
    * 1.3 Martin Haugh and Garud Iyengar: Financial Engineering and Risk Management Part I, also Part II<br/>
        https://www.coursera.org/learn/financial-engineering-1
 
-2. Global Association of Risk Professionals (GARP): Financial Risk Manager (FRM) Learning Objectives<br/>
-   This is a detailed syllabus with book titles
-
-3. Investopedia - Descriptions / Summaries / Short videos<br/>
+2. Investopedia - Descriptions / Summaries / Short videos<br/>
    Example: https://www.investopedia.com/terms/f/fixedincome.asp , see also menu on the left<br/>
    Warning: _avoid all_ ads
 
