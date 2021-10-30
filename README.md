@@ -52,13 +52,13 @@ Please see the homepage of the course.
    * 7.2. turn on the nbextension `Table of Contents`
 
 8. Several notebooks will ask you to download free data that they process.
-   * 8.1. First, please create your local folder called `data` immediately in the folder that contains this README file.
-   * 8.2. Second, download the necessary files into this `data` folder.
+   * 8.1. First, please create your local subfolder called `data` in the folder that contains this README file.
+   * 8.2. Second, download the requested files into this newly created local `data` folder.
 
 
 ### (E) Recommended Further Learning:
 
-1. Video courses:
+1. Courses:
    * 1.1 Arzu Ozoguz: Global Financial Markets and Instruments<br/>
        https://www.coursera.org/learn/global-financial-markets-instruments
    * 1.2 Damir Filipovic: Interest Rate Models<br/>
