@@ -12,16 +12,15 @@ Please see the homepage of the course.
    - Mathematical modeling
    - Data processing and analysis
 
-2. Goals are usually complex. Business needs speed, product flexibility, stability, low costs and high returns.<br/>Sometimes several of these at the same time.
+2. The goals of business usually combine responsible behavior, speed, profit, product flexibility and stability, and other factors.
 
-3. Note that finance, similarly to other fields, has many of its own technical terms.
+3. Note that finance -- similarly to other fields -- has many of its own technical terms.
 
 
-### (C) Structure of the course:
+### (C) Structure of each lesson:
 
-- The first half of the course is focused on unidirectional information flow from the lecturer to the students
-- The second half of the course is focused on the short student presentations and student projects
-
+1. New material is presented. You must guide the lecturer with your questions.
+2. Problems are solved together.
 
 
 ### (D) How to use these jupyter notebooks on your computer:
@@ -49,10 +48,12 @@ Please see the homepage of the course.
    * type `jupyter notebook` at your anaconda prompt
 
 7. On the main page of jupyter notebook open the Nbextensions panel
-   * 7.1. enable configurations: uncheck the "disable" box, if it is checked
-   * 7.2. turn on the nbextension "Table of Contents"
+   * 7.1. enable configurations by unchecking the `disable` box, if it is checked
+   * 7.2. turn on the nbextension `Table of Contents`
 
 8. Several notebooks will ask you to download free data that they process.
+   * 8.1. First, please create your local folder called `data` immediately in the folder that contains this README file.
+   * 8.2. Second, download the necessary files into this `data` folder.
 
 
 ### (E) Recommended Further Learning:
@@ -62,12 +63,14 @@ Please see the homepage of the course.
        https://www.coursera.org/learn/global-financial-markets-instruments
    * 1.2 Damir Filipovic: Interest Rate Models<br/>
        https://www.coursera.org/learn/interest-rate-models
-   * 1.3 Martin Haugh and Garud Iyengar: Financial Engineering and Risk Management Part I, also Part II<br/>
+   * 1.3.1 Martin Haugh and Garud Iyengar: Financial Engineering and Risk Management Part I, also Part II<br/>
        https://www.coursera.org/learn/financial-engineering-1
+   * 1.3.2 G. Iyengar, A. Hirsa, M. Haugh: Financial Engineering and Risk Management Specialization<br/>
+       https://www.coursera.org/specializations/financialengineering
 
 2. Investopedia - Descriptions / Summaries / Short videos<br/>
    Example: https://www.investopedia.com/terms/f/fixedincome.asp , see also menu on the left<br/>
-   Warning: _avoid all_ ads
+   Warning: _avoid all ads_
 
 
 
