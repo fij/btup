@@ -25,22 +25,22 @@ Please see the homepage of the course.
 
 ### (D) How to use these jupyter notebooks on your computer:
 
-1. Install anaconda on your computer
-   * please see https://www.anaconda.com/products/individual
-
-2. Download the files from the current github repository to your computer
+1. Download the files from this github repository to your computer
    * either download all files in a single zip package or git clone the repo
 
+2. Install anaconda on your computer
+   * please see https://www.anaconda.com/products/individual
+
 3. Open an anaconda prompt on your computer and install the conda environment
-   * 3.1 change into the directory where you downloaded (or git cloned) the files
-   * 3.2 `conda env create -f fin_course_env.yml`
+   * 3.1 change into the directory where you downloaded (or git cloned) the files of this repo
+   * 3.2 execute this command: `conda env create -f fin_course_env.yml`
  
 4. Activate the installed conda environment with
    * `conda activate fin_course_env`
 
 5. At the anaconda prompt set up extensions:
-   * for nbextensions: `jupyter contrib nbextension install --user`
-   * for the rise extension:
+   * set up nbextensions: `jupyter contrib nbextension install --user`
+   * set up the rise extension:
      * install with `jupyter-nbextension install rise --py --sys-prefix`
      * initialize with `jupyter nbextension enable rise --py --sys-prefix`
 
@@ -53,7 +53,7 @@ Please see the homepage of the course.
 
 8. Several notebooks will ask you to download free data that they process.
    * 8.1. First, please create your local subfolder called `data` in the folder that contains this README file.
-   * 8.2. Second, download the requested files into this newly created local `data` folder.
+   * 8.2. Second, download the requested files to this local `data` folder.
 
 
 ### (E) Recommended Further Learning:
@@ -63,10 +63,8 @@ Please see the homepage of the course.
        https://www.coursera.org/learn/global-financial-markets-instruments
    * 1.2 Damir Filipovic: Interest Rate Models<br/>
        https://www.coursera.org/learn/interest-rate-models
-   * 1.3.1 Martin Haugh and Garud Iyengar: Financial Engineering and Risk Management Part I, also Part II<br/>
+   * 1.3 Martin Haugh and Garud Iyengar: Financial Engineering and Risk Management Part I, also Part II<br/>
        https://www.coursera.org/learn/financial-engineering-1
-   * 1.3.2 G. Iyengar, A. Hirsa, M. Haugh: Financial Engineering and Risk Management Specialization<br/>
-       https://www.coursera.org/specializations/financialengineering
 
 2. Investopedia - Descriptions / Summaries / Short videos<br/>
    Example: https://www.investopedia.com/terms/f/fixedincome.asp , see also menu on the left<br/>
@@ -76,5 +74,5 @@ Please see the homepage of the course.
 
 ### (F) Acknowledgements
 
-Regarding the contents of this course, I would like to thank Tamas Vicsek and Marton Sebok for teaching me.
+I would like to thank Tamas Vicsek and Marton Sebok for teaching me.
 
