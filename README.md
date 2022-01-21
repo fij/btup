@@ -74,5 +74,5 @@ Please see the homepage of the course.
 
 ### (F) Acknowledgements
 
-I would like to thank Tamas Vicsek and Marton Sebok for teaching me.
+I would like to thank all those who found the time to teach me.
 
