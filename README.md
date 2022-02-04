@@ -12,7 +12,7 @@ Please see the homepage of the course.
    - Mathematical modeling
    - Data processing and analysis
 
-2. The goals of business usually combine responsible behavior, speed, profit, product flexibility and stability, and other factors.
+2. The goals of business usually combine many factors: responsible behavior, apply best practices in the interest of the client, product flexibility and stability, speed, profit, liquidity, and many others.
 
 3. Note that finance -- similarly to other fields -- has many of its own technical terms.
 
