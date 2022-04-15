@@ -2,7 +2,7 @@
 
 ### (A) Grading:
 
-Please see the homepage of the course.
+Please see https://physics.bme.hu/BMETE15MF78_kov?language=en
 
 
 ### (B) Topic Description:
