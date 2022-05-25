@@ -15,3 +15,5 @@ dependencies:
     - rise
     - scikit-learn
     - scipy
+    - yfinance
+    - ipympl
