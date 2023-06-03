@@ -70,6 +70,7 @@ Please see https://physics.bme.hu/BMETE15MF78_kov?language=en
    Example: https://www.investopedia.com/terms/f/fixedincome.asp , see also menu on the left<br/>
    Warning: _avoid all ads_
 
+3. The Financial Modelers' Manifesto, by Emanuel Derman and Paul Wilmott (pdf, 2 pages)
 
 
 ### (F) Acknowledgements
