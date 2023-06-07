@@ -7,14 +7,15 @@ Please see https://physics.bme.hu/BMETE15MF78_kov?language=en
 
 ### (B) Topic Description:
 
-1. Quantitative Finance / Financial Engineering is a composition of three main areas:
+1. The goals of business usually combine many factors: responsible behavior, application of best practices in the interest of the client, product flexibility and stability, speed, profit, liquidity, and many others.
+
+2. Accordingly, Financial Engineering is a composition of several areas:
    - Financial markets and products
    - Mathematical modeling
    - Data processing and analysis
+   - Software testing
 
-2. The goals of business usually combine many factors: responsible behavior, apply best practices in the interest of the client, product flexibility and stability, speed, profit, liquidity, and many others.
-
-3. Note that finance -- similarly to other fields -- has many of its own technical terms.
+3. Similarly to other fields, finance also has many of its own technical terms.
 
 
 ### (C) Structure of each lesson:
