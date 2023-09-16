@@ -10,16 +10,16 @@ Please see https://physics.bme.hu/BMETE15MF78_kov?language=en
 1. The goals of business usually combine many factors: responsible behavior, application of best practices in the interest of the client, product flexibility and stability, speed, profit, liquidity, and many others.
 
 2. Accordingly, Financial Engineering is a composition of several areas:
-   - Finance: Markets, Products
-   - Math: Modeling, Data analysis
-   - Coding: Software implementation and testing
+   - **Finance:** Markets, Products
+   - **Math:** Modeling, Data analysis
+   - **Coding:** Software implementation and testing
 
 3. Similarly to other fields, finance also has many of its own technical terms.
 
 
 ### (C) Purpose of the course:
 
-Show through examples how Products, Math, Coding are connected.
+Show through examples how Finance, Math, Coding are connected.
 
 
 ### (D) Structure of each lesson:
