@@ -10,21 +10,25 @@ Please see https://physics.bme.hu/BMETE15MF78_kov?language=en
 1. The goals of business usually combine many factors: responsible behavior, application of best practices in the interest of the client, product flexibility and stability, speed, profit, liquidity, and many others.
 
 2. Accordingly, Financial Engineering is a composition of several areas:
-   - Financial markets and products
-   - Mathematical modeling
-   - Data processing and analysis
-   - Software testing
+   - Finance: Markets, Products
+   - Math: Modeling, Data analysis
+   - Coding: Software implementation and testing
 
 3. Similarly to other fields, finance also has many of its own technical terms.
 
 
-### (C) Structure of each lesson:
+### (C) Purpose of the course:
+
+Show through examples how Products, Math, Coding are connected.
+
+
+### (D) Structure of each lesson:
 
 1. New material is presented. You must guide the lecturer with your questions.
 2. Problems are solved together.
 
 
-### (D) How to use these jupyter notebooks on your computer:
+### (E) How to use these jupyter notebooks on your computer:
 
 1. Download the files from this github repository to your computer
    * either download all files in a single zip package or git clone the repo
@@ -57,7 +61,7 @@ Please see https://physics.bme.hu/BMETE15MF78_kov?language=en
    * 8.2. Second, download the requested files to this local `data` folder.
 
 
-### (E) Recommended Further Learning:
+### (F) Recommended Further Learning:
 
 1. Courses:
    * 1.1 Arzu Ozoguz: Global Financial Markets and Instruments<br/>
@@ -74,7 +78,7 @@ Please see https://physics.bme.hu/BMETE15MF78_kov?language=en
 3. The Financial Modelers' Manifesto, by Emanuel Derman and Paul Wilmott (pdf, 2 pages)
 
 
-### (F) Acknowledgements
+### (G) Acknowledgements
 
 I would like to thank all those who found the time to teach me.
 
