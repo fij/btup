@@ -2,7 +2,9 @@ name: fin_course_env
 dependencies:
   - pip
   - widgetsnbextension
+  - notebook==6.4.12
   - pip:
+    - traitlets==5.9.0
     - ipycytoscape
     - jupyter-contrib-nbextensions
     - jupyter-nbextensions-configurator
