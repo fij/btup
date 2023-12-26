@@ -7,24 +7,25 @@ Please see https://physics.bme.hu/BMETE15MF78_kov?language=en
 
 ### (B) Topic Description:
 
-1. The goals of business usually combine many factors: responsible behavior, application of best practices in the interest of the client, product flexibility and stability, speed, profit, liquidity, and many others.
+1. Business goals usually combine many factors: responsible behavior, application of best industry practices in the interest of the client, product flexibility and stability, continuity of business, risk management, continuous development, and of course, speed, profit, and many others.
 
 2. Accordingly, Financial Engineering is a composition of several areas:
    - **Finance:** Markets, Products
    - **Math:** Modeling, Data analysis
    - **Coding:** Software implementation and testing
 
-3. Similarly to other fields, finance also has many of its own technical terms.
+3. Similarly to other fields, finance also has its own extensive **technical language**.
 
 
 ### (C) Purpose of the course:
 
-Show through examples how Finance, Math, Coding are connected.
+Show by examples how Finance, Math and Coding are connected.
 
 
 ### (D) Structure of each lesson:
 
 1. New material is presented. You must guide the lecturer with your questions.
+
 2. Problems are solved together.
 
 
@@ -75,10 +76,11 @@ Show through examples how Finance, Math, Coding are connected.
    Example: https://www.investopedia.com/terms/f/fixedincome.asp , see also menu on the left<br/>
    Warning: _avoid all ads_
 
-3. The Financial Modelers' Manifesto, by Emanuel Derman and Paul Wilmott (pdf, 2 pages)
+3. Emanuel Derman and Paul Wilmott: The Financial Modelers' Manifesto
+
+4. Alex Kuznetsov: The Complete Guide to Capital Markets for Quantitative Professionals
 
 
 ### (G) Acknowledgements
 
-I would like to thank all those who found the time to teach me.
-
+I thank all those who found the time to teach me.
