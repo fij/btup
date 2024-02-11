@@ -14,8 +14,7 @@ Please see https://physics.bme.hu/BMETE15MF78_kov?language=en
    - **Math:** Modeling, Data analysis
    - **Coding:** Software implementation and testing
 
-3. Similarly to other fields, finance also has its own extensive **technical language**.
-
+3. Similarly to other fields, finance also has its own extensive **technical language**. Examples: spread, fixing, leg.
 
 ### (C) Purpose of the course:
 
