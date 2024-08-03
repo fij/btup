@@ -1,0 +1,7 @@
+
+Introduction to the Modern Portfolio Theory (MPT) and the Capital Asset Pricing Model (CAPM)
+
+2024-Sep-10
+
+The Efficient Markets Hypothesis (EMH) assumes that on the financial markets all information is instantaneously available to everyone, and that based on identical information everyone makes the same decisions. Two classical theories (from the 1960s-70s) subsequently built on the EMH are the Modern Portfolio Theory (MPT) and the Capital Asset Pricing Model (CAPM). The MPT first maximizes the yearly return of a portfolio of risky assets (for example, stocks) at fixed variance of the portfolio's value. Next, the MPT changes the variable from portfolio variance to standard deviation (also called volatility), and adds a risk-free asset (for example, a high-quality bond) to the analyzed portfolio. On the return vs volatility plane the risk-free asset is then connected with the market portfolio to obtain the line showing the highest return at fixed volatility of the combined (risk-free plus risky) portfolio. The CAPM continues by replacing full risk (volatility) with non-diversifiable risk (measured by a quantity called beta). Even in the 2020s, the concepts of the CAPM are frequently applied to the estimation of expected portfolio return and thereby pricing.
+
