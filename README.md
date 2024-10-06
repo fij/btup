@@ -7,7 +7,7 @@ Please see https://physics.bme.hu/BMETE15MF78_kov?language=en
 
 ### (B) Topic Description:
 
-1. Business goals usually combine many factors: responsible behavior, application of best industry practices in the interest of the client, product flexibility and stability, continuity of business, risk management, continuous development, and of course, speed, profit, and many others.
+1. Business goals usually combine many factors: responsible behavior, application of best industry practices in the interest of the client, product flexibility and stability, continuity of business, risk management, continuous development, speed, profit, and many others.
 
 2. Accordingly, Financial Engineering is a composition of several areas:
    - **Finance:** Markets, Products
