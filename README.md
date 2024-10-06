@@ -20,7 +20,6 @@ Please see https://physics.bme.hu/BMETE15MF78_kov?language=en
 
 Show by examples how Finance, Math and Coding are connected.
 
-
 ### (D) Structure of each lesson:
 
 1. New material is presented. You must guide the lecturer with your questions.
@@ -57,8 +56,8 @@ Show by examples how Finance, Math and Coding are connected.
    * 7.2. turn on the nbextension `Table of Contents`
 
 8. Several notebooks will ask you to download free data that they process.
-   * 8.1. First, please create your local subfolder called `data` in the folder that contains this README file.
-   * 8.2. Second, download the requested files to this local `data` folder.
+   * 8.1. Please create your local subfolder called `data` within the folder that contains this README file.
+   * 8.2. Download the requested files to this local subfolder.
 
 
 ### (F) Recommended Further Learning:
