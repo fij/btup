@@ -9,7 +9,7 @@ Please see https://physics.bme.hu/BMETE15MF78_kov?language=en
 
 1. Business goals usually combine many factors: responsible behavior, application of best industry practices in the interest of the client, product flexibility and stability, continuity of business, risk management, continuous development, speed, profit, and many others.
 
-2. Accordingly, Financial Engineering is a composition of several areas:
+2. Accordingly, Financial Engineering is a mix of several different approaches :
    - **Finance:** Markets, Products
    - **Math:** Modeling, Data analysis
    - **Coding:** Software implementation and testing
@@ -77,6 +77,9 @@ Show by examples how Finance, Math and Coding are connected.
 3. Emanuel Derman and Paul Wilmott: The Financial Modelers' Manifesto
 
 4. Alex Kuznetsov: The Complete Guide to Capital Markets for Quantitative Professionals
+
+5. John Hull: Options, Futures, and Other Derivatives
+
 
 
 ### (G) Acknowledgements
