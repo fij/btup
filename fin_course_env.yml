@@ -17,5 +17,5 @@ dependencies:
     - rise
     - scikit-learn
     - scipy
-    - yfinance
+    - yfinance>=0.2.54
     - ipympl
