@@ -27,7 +27,7 @@ Show by examples how Finance, Math and Coding are connected.
 2. Problems are solved together.
 
 
-### (E) How to use these jupyter notebooks on your computer:
+### (E) How to use the jupyter notebooks on your computer:
 
 1. Download the files from this github repository to your computer
    * either download all files in a single zip package or git clone the repo
@@ -48,16 +48,18 @@ Show by examples how Finance, Math and Coding are connected.
      * install with `jupyter-nbextension install rise --py --sys-prefix`
      * initialize with `jupyter nbextension enable rise --py --sys-prefix`
 
-6. Start using the notebooks in your default browser:
+6. Set your jupyter notebook password with `jupyter notebook password`.
+
+7. Start using the notebooks in your default browser:
    * type `jupyter notebook` at your anaconda prompt
 
-7. On the main page of jupyter notebook open the Nbextensions panel
-   * 7.1. enable configurations by unchecking the `disable` box, if it is checked
-   * 7.2. turn on the nbextension `Table of Contents`
+8. On the main page of jupyter notebook open the Nbextensions panel
+   * 8.1. enable configurations by unchecking the `disable` box, if it is checked
+   * 8.2. turn on the nbextension `Table of Contents`
 
-8. Several notebooks will ask you to download free data that they process.
-   * 8.1. Please create your local subfolder called `data` within the folder that contains this README file.
-   * 8.2. Download the requested files to this local subfolder.
+9. Several notebooks will ask you to download free data that they process.
+   * 9.1. Please create your local subfolder called `data` within the folder that contains this README file.
+   * 9.2. Download the requested files to this local subfolder.
 
 
 ### (F) Recommended Further Learning:
