@@ -1,5 +1,6 @@
 ## Financial Engineering, BMETE15MF78
 
+
 ### (A) Grading:
 
 Please see https://physics.bme.hu/BMETE15MF78_kov?language=en
@@ -16,9 +17,13 @@ Please see https://physics.bme.hu/BMETE15MF78_kov?language=en
 
 3. Similarly to other fields, finance also has its own extensive **technical language**. Examples: spread, fixing, leg.
 
+
 ### (C) Purpose of the course:
 
 Show by examples how Finance, Math and Coding are connected.
+
+**Note** that code in these notebooks is for **illustration only**.
+
 
 ### (D) Structure of each lesson:
 
