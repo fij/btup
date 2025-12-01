@@ -18,11 +18,11 @@ Please see https://physics.bme.hu/BMETE15MF78_kov?language=en
 3. Similarly to other fields, finance also has its own extensive **technical language**. Examples: spread, fixing, leg.
 
 
-### (C) Purpose of the course:
+### (C) Purpose of this course:
 
 Show by examples how Finance, Math and Coding are connected.
 
-**Note** that code in these notebooks is for **illustration only**.
+**Note** that code in these notebooks is for **illustration only**. It is very far from production-level code.
 
 
 ### (D) Structure of each lesson:
