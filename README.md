@@ -52,6 +52,7 @@ Show by examples how Finance, Math and Coding are connected.
    * set up the rise extension:
      * install with `jupyter-nbextension install rise --py --sys-prefix`
      * initialize with `jupyter nbextension enable rise --py --sys-prefix`
+   * allow code folding: `jupyter nbextension enable codefolding/main`
 
 6. Set your jupyter notebook password with `jupyter notebook password`.
 
