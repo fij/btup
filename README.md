@@ -92,4 +92,4 @@ Show by examples how Finance, Math and Coding are connected.
 
 ### (G) Acknowledgements
 
-I thank all those who found the time to teach me.
+I thank all who found the time to teach me.
