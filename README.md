@@ -22,7 +22,7 @@ Please see https://physics.bme.hu/BMETE15MF78_kov?language=en
 
 Show by examples how Finance, Math and Coding are connected.
 
-**Note** that code in these notebooks is for **illustration only**. It is very far from production-level code.
+Note that all **code in these notebooks is illustration purposes only**. It is very far from production-level code.
 
 
 ### (D) Structure of each lesson:
@@ -37,8 +37,7 @@ Show by examples how Finance, Math and Coding are connected.
 1. Download the files from this github repository to your computer
    * either download all files in a single zip package or git clone the repo
 
-2. Install anaconda on your computer
-   * please see https://www.anaconda.com/products/individual
+2. Install **miniconda** on your computer, please see https://www.anaconda.com/download/success for the download.
 
 3. Open an anaconda prompt on your computer and install the conda environment
    * 3.1 change into the directory where you downloaded (or git cloned) the files of this repo
@@ -47,25 +46,12 @@ Show by examples how Finance, Math and Coding are connected.
 4. Activate the installed conda environment with
    * `conda activate fin_course_env`
 
-5. At the anaconda prompt set up extensions:
-   * set up nbextensions: `jupyter contrib nbextension install --user`
-   * set up the rise extension:
-     * install with `jupyter-nbextension install rise --py --sys-prefix`
-     * initialize with `jupyter nbextension enable rise --py --sys-prefix`
-   * allow code folding: `jupyter nbextension enable codefolding/main`
-
-6. Set your jupyter notebook password with `jupyter notebook password`.
-
-7. Start using the notebooks in your default browser:
+5. Start using the notebooks in your default browser:
    * type `jupyter notebook` at your anaconda prompt
 
-8. On the main page of jupyter notebook open the Nbextensions panel
-   * 8.1. enable configurations by unchecking the `disable` box, if it is checked
-   * 8.2. turn on the nbextension `Table of Contents`
-
-9. Several notebooks will ask you to download free data that they process.
-   * 9.1. Please create your local subfolder called `data` within the folder that contains this README file.
-   * 9.2. Download the requested files to this local subfolder.
+6. Several notebooks will ask you to download free data that they process.
+   * 6.1. Please create your local subfolder called `data` within the folder that contains this README file.
+   * 6.2. Download the requested files to this local subfolder.
 
 
 ### (F) Recommended Further Learning:
