@@ -54,7 +54,7 @@ Note that all **code in these notebooks is illustration purposes only**. It is v
    * 6.2. Download the requested files to this local subfolder.
 
 
-### (F) Recommended Further Learning:
+### (F) Recommended further learning:
 
 1. Courses:
    * 1.1 Arzu Ozoguz: Global Financial Markets and Instruments<br/>
@@ -64,15 +64,17 @@ Note that all **code in these notebooks is illustration purposes only**. It is v
    * 1.3 Martin Haugh and Garud Iyengar: Financial Engineering and Risk Management Part I, also Part II<br/>
        https://www.coursera.org/learn/financial-engineering-1
 
-2. Investopedia - Descriptions / Summaries / Short videos<br/>
+2. Alex Kuznetsov: The Complete Guide to Capital Markets for Quantitative Professionals
+
+3. Investopedia - Descriptions / Summaries / Short videos<br/>
    Example: https://www.investopedia.com/terms/f/fixedincome.asp , see also menu on the left<br/>
    Warning: _avoid all ads_
 
-3. Emanuel Derman and Paul Wilmott: The Financial Modelers' Manifesto
-
-4. Alex Kuznetsov: The Complete Guide to Capital Markets for Quantitative Professionals
+4. Emanuel Derman and Paul Wilmott: The Financial Modelers' Manifesto
 
 5. John Hull: Options, Futures, and Other Derivatives
+
+6. Talk to Gemini. Learn how to end your answers with the next meaningful question.
 
 
 
