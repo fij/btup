@@ -66,15 +66,11 @@ Note that all **code in these notebooks is illustration purposes only**. It is v
 
 2. Alex Kuznetsov: The Complete Guide to Capital Markets for Quantitative Professionals
 
-3. Investopedia - Descriptions / Summaries / Short videos<br/>
-   Example: https://www.investopedia.com/terms/f/fixedincome.asp , see also menu on the left<br/>
-   Warning: _avoid all ads_
+3. Talk to Gemini
 
 4. Emanuel Derman and Paul Wilmott: The Financial Modelers' Manifesto
 
 5. John Hull: Options, Futures, and Other Derivatives
-
-6. Talk to Gemini. Learn how to end your answers with the next meaningful question.
 
 
 
