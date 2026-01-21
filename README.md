@@ -54,7 +54,7 @@ Note that all **code in these notebooks is illustration purposes only**. It is v
    * 6.2. Download the requested files to this local subfolder.
 
 
-### (F) Recommended further learning:
+### (F) Possible further items related to the course:
 
 1. Courses:
    * 1.1 Arzu Ozoguz: Global Financial Markets and Instruments<br/>
@@ -73,7 +73,11 @@ Note that all **code in these notebooks is illustration purposes only**. It is v
 5. John Hull: Options, Futures, and Other Derivatives
 
 
+### (G) Outlook. Less related to the current course:
 
-### (G) Acknowledgements
+1. The Executive Summary (pages 3 and 4) at [the 2030 jobs outlook](https://reports.weforum.org/docs/WEF_Four_Futures_for_Jobs_in_the_New_Economy_AI_and_Talent_in_2030_2025.pdf) of the World Economic Forum.
+
+
+### (H) Acknowledgements:
 
 I thank all who found the time to teach me.
