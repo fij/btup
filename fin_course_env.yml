@@ -4,7 +4,7 @@ dependencies:
   - widgetsnbextension
   - notebook>=7.0.0
   - pip:
-    - traitlets==5.9.0
+    - traitlets
     - jupyter-contrib-nbextensions
     - jupyter-nbextensions-configurator
     - matplotlib
@@ -16,5 +16,6 @@ dependencies:
     - rise
     - scikit-learn
     - scipy
+    - seaborn
     - yfinance>=0.2.54
     - ipympl
