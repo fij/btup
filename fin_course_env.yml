@@ -19,3 +19,4 @@ dependencies:
     - seaborn
     - yfinance>=0.2.54
     - ipympl
+    - altair
